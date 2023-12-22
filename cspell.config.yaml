@@ -3,6 +3,7 @@ words:
   - amsthm
   - auctex
   - biber
+  - daxue
   - dpth
   - dsrc
   - eledsec
@@ -16,44 +17,41 @@ words:
   - glstex
   - gnutella
   - gomod
-  - "gonz\xE1lez"
   - gtex
   - gummi
   - htlatex
   - intelli
   - intelliway
+  - jishu
   - jisuanji
   - kile
   - knitr
-  - ladar
   - latexmk
   - liblaf
   - ltjruby
   - luatexja
-  - mertz
-  - milanes
-  - nashashibi
+  - naturalium
   - nofootinbib
-  - odometry
   - pdfpc
   - pdfpcnotes
-  - petrovskaya
   - procedia
   - pytxcode
-  - "p\xE9rez"
+  - scientiarum
   - scmd
   - scrwfile
-  - serment
   - sout
+  - sunyatseni
   - sympy
   - tcolorbox
   - texpadtmp
   - thmtools
-  - thrun
+  - tielu
   - tongxin
+  - universitatis
   - vhistory
   - xcolor
   - xindy
+  - xinhao
   - xmpi
   - xnic
   - xuebao
@@ -61,6 +59,7 @@ words:
   - xwatermark
   - xypic
   - yingyong
+  - zhongshan
   - zrar
 ignorePaths:
   - "*-lock.*"
