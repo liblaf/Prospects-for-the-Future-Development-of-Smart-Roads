@@ -10,14 +10,19 @@ words:
   - feynmf
   - feynmp
   - gaux
+  - ghafoor
   - glog
   - glsdefs
   - glstex
+  - gnutella
   - gomod
   - "gonz\xE1lez"
   - gtex
   - gummi
   - htlatex
+  - intelli
+  - intelliway
+  - jisuanji
   - kile
   - knitr
   - ladar
@@ -33,6 +38,7 @@ words:
   - pdfpc
   - pdfpcnotes
   - petrovskaya
+  - procedia
   - pytxcode
   - "p\xE9rez"
   - scmd
@@ -44,13 +50,18 @@ words:
   - texpadtmp
   - thmtools
   - thrun
+  - tongxin
   - vhistory
   - xcolor
   - xindy
   - xmpi
   - xnic
+  - xuebao
+  - xuyu
   - xwatermark
   - xypic
+  - yingyong
+  - zrar
 ignorePaths:
   - "*-lock.*"
   - "*.lock"
