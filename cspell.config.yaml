@@ -2,65 +2,55 @@ words:
   - achemso
   - amsthm
   - auctex
+  - bhadauria
   - biber
-  - daxue
+  - cvis
   - dpth
   - dsrc
   - eledsec
   - expex
+  - festag
   - feynmf
   - feynmp
   - gaux
-  - ghafoor
   - glog
   - glsdefs
   - glstex
-  - gnutella
   - gomod
   - gtex
   - gummi
   - htlatex
-  - intelli
-  - intelliway
-  - jishu
   - jisuanji
+  - kapil
+  - khabaz
   - kile
   - knitr
   - latexmk
   - liblaf
   - ltjruby
   - luatexja
-  - naturalium
   - nofootinbib
   - pdfpc
   - pdfpcnotes
-  - procedia
   - pytxcode
-  - scientiarum
+  - sarita
   - scmd
   - scrwfile
+  - sehla
+  - shuqiang
   - sout
-  - sunyatseni
   - sympy
   - tcolorbox
   - texpadtmp
   - thmtools
-  - tielu
-  - tongxin
-  - universitatis
   - vhistory
   - xcolor
   - xindy
-  - xinhao
   - xmpi
   - xnic
-  - xuebao
-  - xuyu
   - xwatermark
   - xypic
   - yingyong
-  - zhongshan
-  - zrar
 ignorePaths:
   - "*-lock.*"
   - "*.lock"
